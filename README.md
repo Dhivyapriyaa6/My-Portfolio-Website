@@ -1,28 +1,28 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and accomplishments as a web developer.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This portfolio website is designed to create a strong online presence by highlighting my **technical skills**, **projects**, **education**, and **professional background**.  
 It features a clean layout with easy navigation to help visitors quickly understand my profile.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🏠 Home section with professional introduction
-- 👩‍💻 About Me section with background and education
-- 🛠️ Skills showcase
-- 📂 Projects section
-- 📞 Contact section
-- 📱 Fully responsive design for all devices
+-  Home section with professional introduction
+-  About Me section with background and education
+-  Skills showcase
+-  Projects section
+-  Contact section
+-  Fully responsive design for all devices
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML** – Structure of the website  
 - **CSS** – Styling and responsive layout  
@@ -30,7 +30,7 @@ It features a clean layout with easy navigation to help visitors quickly underst
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 My-Portfolio-Website/
 │
 ├── index.html
@@ -43,7 +43,7 @@ My-Portfolio-Website/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository  
    ```bash
